@@ -3,7 +3,7 @@
 This project is a **practice implementation** of an HTML & CSS tutorial I followed, built to strengthen my front-end development fundamentals.
 
 🔗 **Live Demo:**  
-https://omarwaelabdelhalim.github.io/Html-Css-tutorial/
+https://3marthedev.github.io/Html-Css-tutorial/
 
 ---
 
